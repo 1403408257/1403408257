@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+this is my repository～
 <!--
 **1403408257/1403408257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1403408257&show_icons=true&theme=tokyonight" /> 
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cwd295645351&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=tokyonight" />
-</div>
+
